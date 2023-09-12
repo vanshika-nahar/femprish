@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8966fe40.css",
+    "main.js": "/static/js/main.1363f02a.js",
+    "static/js/496.d1d236b0.chunk.js": "/static/js/496.d1d236b0.chunk.js",
+    "static/media/img_8.png": "/static/media/img_8.2003e841871abacb641b.png",
+    "static/media/img_3.png": "/static/media/img_3.8bfc192f89c9162d8ce6.png",
+    "static/media/img_7.png": "/static/media/img_7.49971ea88c0d72734266.png",
+    "static/media/img_2.png": "/static/media/img_2.633fbf1262889adc4d35.png",
+    "static/media/img_5.png": "/static/media/img_5.48639ca2706398208200.png",
+    "static/media/what_is_femprish.png": "/static/media/what_is_femprish.a2fb63056b37ad266aee.png",
+    "static/media/img_6.png": "/static/media/img_6.79a2d38cba9c55b1bbfd.png",
+    "static/media/instagram.png": "/static/media/instagram.8d1d446f6efcd059fc81.png",
+    "static/media/img_4.png": "/static/media/img_4.0c8bc590c53a41efaf9a.png",
+    "static/media/img_1.png": "/static/media/img_1.ca6428cc997e8e839ce0.png",
+    "static/media/image 1.png": "/static/media/image 1.3f0e9b0b0d0b348b0cde.png",
+    "static/media/Logo.png": "/static/media/Logo.e8d58488d4508d2378b2.png",
+    "index.html": "/index.html",
+    "main.8966fe40.css.map": "/static/css/main.8966fe40.css.map",
+    "main.1363f02a.js.map": "/static/js/main.1363f02a.js.map",
+    "496.d1d236b0.chunk.js.map": "/static/js/496.d1d236b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8966fe40.css",
+    "static/js/main.1363f02a.js"
+  ]
+}
